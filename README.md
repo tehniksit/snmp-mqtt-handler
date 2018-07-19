@@ -1,1 +1,1 @@
-# snmp-mqtt-handler
+The App grabs information from a printer by snmp and sends it to a server by mqtt protocol
